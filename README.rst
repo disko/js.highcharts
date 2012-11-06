@@ -1,8 +1,8 @@
 js.highcharts
-*************
+=============
 
 Introduction
-============
+------------
 
 This library packages `Highcharts`_ for `fanstatic`_.
 
